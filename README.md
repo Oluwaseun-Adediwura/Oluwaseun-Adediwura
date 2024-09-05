@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Oluwaseun-Adediwura
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Python, C++
-- 💞️ I’m looking to collaborate on different projects related to the above listed programming languages.
+- 💞️ I’m looking to collaborate on different projects related to the above-listed programming languages.
 - 📫 How to reach me oluwaseuneadediwura@gmail.com
 
 <!---
