@@ -6,10 +6,12 @@
 
 Global IT Service Delivery & Software Engineering Intern at Solera Inc. (2024): Developed full-stack applications using .NET, ASP.NET, C#, React/JS, MongoDB, and SQL. Created APIs for external data integration and user-friendly UIs for data accessibility.
 Quality Assurance Engineer at Solera Inc. (2023): Led a team in enhancing API capabilities, system security, and role management while employing Agile methodologies and Service Virtualization.
+
 🚀 Skills:
 
 Languages: C++, Python, Java, HTML/CSS, React/JS, C#, Swift
 Tools & Frameworks: Git, Visual Studio, Android Studio, Figma, GitHub, Flutter, IntelliJ, CassandraDB, Bitbucket
+
 🏆 Achievements:
 
 2nd Place at HBCU Battle of the Brains 2022
